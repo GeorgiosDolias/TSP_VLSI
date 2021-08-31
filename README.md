@@ -27,9 +27,16 @@ we used instance from dozens of points up to several thousand ones.
 ## Notebooks
 
 * Optimal_solutions_VLSI.ipynb : Optimal solutions ( Calculation of All tours and Held-Karp algorithm) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bNdHfaiIydbRF8NGtyPUoUpX_ieVqogt)
+* Near_Optimal_Solutions_VLSI.ipynb : Near-Optimal solutions(Nearest Neighbor & Greedy Algorithm) (Calculation of near-optimal tours without guaranteeing finding any near-optimal solutions)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WDDOFyBH0enaz6OnyQcRxXlzGiBjKbHz)
+* Minimum_Spanning_Tree_VLSI.ipynb  : Near-Optimal solutions(Minimum spanning tree Algorithm) (Calculation of near-optimal tours by guaranteeing finding near-optimal solutions)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TTBDbYOULD8kJQ9qVQt6y-PtImS5HxZr)
+* AllMethodsTSP_VLSI.ipynb : All developed solutions (Class that supports all the abovementioned implementations )  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SU8Vc8a1lbxEJIadGIfsOne_Vp5Y6vJ8#scrollTo=SKCFVEq5TCGR)
 
-* Near_Optimal_Solutions_VLSI.ipynb : Near-Optimal solutions (Calculation of near-optimal tours without guaranteeing finding any near-optimal solutions)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WDDOFyBH0enaz6OnyQcRxXlzGiBjKbHz)
-* Minimum_Spanning_Tree_VLSI.ipynb  : Near-Optimal solutions (Calculation of near-optimal tours by guaranteeing finding near-optimal solutions)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TTBDbYOULD8kJQ9qVQt6y-PtImS5HxZr)
+## Requirements
+
+| Package | Version |
+--- | ---
+| matplotlib | 3.3.4 |
+| pandas |  1.1.3 |
 
 ## Useful sources
 
